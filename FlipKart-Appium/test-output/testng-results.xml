@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T12:35:50 IST" name="Default suite" finished-at="2022-09-20T12:36:20 IST" duration-ms="29322">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T12:35:50 IST" name="Default test" finished-at="2022-09-20T12:36:20 IST" duration-ms="29322">
+      <class name="AddToCart.AddProductToCart">
+        <test-method is-config="true" signature="methodSetUp()[pri:0, instance:AddToCart.AddProductToCart@66982506]" started-at="2022-09-20T12:35:50 IST" name="methodSetUp" finished-at="2022-09-20T12:36:02 IST" duration-ms="11839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetUp -->
+        <test-method signature="addProductToCart()[pri:0, instance:AddToCart.AddProductToCart@66982506]" started-at="2022-09-20T12:36:02 IST" name="addProductToCart" finished-at="2022-09-20T12:36:20 IST" duration-ms="17256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method is-config="true" signature="methodTearDown()[pri:0, instance:AddToCart.AddProductToCart@66982506]" started-at="2022-09-20T12:36:20 IST" name="methodTearDown" finished-at="2022-09-20T12:36:20 IST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTearDown -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AddToCart.AddProductToCart@66982506]" started-at="2022-09-20T12:36:20 IST" name="suiteTearDown" finished-at="2022-09-20T12:36:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:AddToCart.AddProductToCart@66982506]" started-at="2022-09-20T12:36:20 IST" name="suiteTearDown" finished-at="2022-09-20T12:36:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- AddToCart.AddProductToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
